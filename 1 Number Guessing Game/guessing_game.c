@@ -26,5 +26,5 @@ int main() {
   } while (guess != random);
 
   printf("\nBye Bye, Thanks for Playing.");
-  printf("\nDeveloped by: KGCoding");
+  printf("\nDeveloped by: NaveenCoding");
 }
