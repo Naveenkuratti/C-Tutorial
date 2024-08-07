@@ -1,8 +1,8 @@
 # C-Tutorial
 
 
+2. Simple Calculator
+3. ![Screenshot 2024-08-07 093159](https://github.com/user-attachments/assets/7b5b4cbf-5aa2-422a-af40-048c941ff583)
 
-
-  2. Simple Calculator![Screenshot 2024-08-07 093159](https://github.com/user-attachments/assets/a5c8df72-7182-493e-8f42-65b5c21ca096)
 
 
